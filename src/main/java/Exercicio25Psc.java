@@ -1,7 +1,7 @@
 
 import javax.swing.JOptionPane;
 
-public class exercicio25psc {
+public class Exercicio25Psc {
 
     public static void main(String[] args) {
         int qtde = 20;
